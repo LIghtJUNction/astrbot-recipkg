@@ -1,5 +1,7 @@
 # AstrBot Recipkg
 
+![软件与依赖汇聚为可重建的配方](https://raw.githubusercontent.com/recipkg/recipkg/main/assets/recipkg-cover.png)
+
 以 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 为观察对象，建立可独立重建的软件配方；这不是 AstrBot 的运行源码或官方发行版。
 
 - 配方入口：[recipes/astrbot/RECIPE.md](recipes/astrbot/RECIPE.md)
